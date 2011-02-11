@@ -1,4 +1,7 @@
 /build/
 /vendor_full/
 /app/cache/*
-/app/logs/*
+/app/logs/
+
+/nbproject/
+

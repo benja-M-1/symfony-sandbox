@@ -20,6 +20,7 @@ class AppKernel extends Kernel
 
             // register your bundles
             new Sensio\HelloBundle\HelloBundle(),
+            new Frontend\TimesheetBundle\TimesheetBundle(),
         );
 
         if ('dev' === $this->getEnvironment()) {

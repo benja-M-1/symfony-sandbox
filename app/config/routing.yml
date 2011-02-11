@@ -4,3 +4,6 @@ homepage:
 
 hello:
     resource: @HelloBundle/Resources/config/routing.yml
+
+timesheet:
+    resource: @TimesheetBundle/Resources/config/routing.yml
